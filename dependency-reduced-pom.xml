@@ -18,7 +18,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>cn.dubby.memory.leak.demo.NativeMemoryLeakDemo3</mainClass>
+                  <mainClass>cn.dubby.memory.leak.demo.NativeMemoryLeakDemo4</mainClass>
                 </transformer>
               </transformers>
             </configuration>
